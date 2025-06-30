@@ -178,4 +178,5 @@ Feel free to submit issues and enhancement requests. Pull requests are welcome f
 
 ## License
 
-This automation script is provided as-is for simplifying weclappON installation. Please refer to weclappON's official documentation for application-specific licensing terms.
+This automation script is provided as-is for simplifying weclappON installation. Please refer to weclappON's [official documentation](https://doc.weclapp.com/knowledgebase/weclappon-installationsanleitung-2/) for application-specific licensing terms.
+
